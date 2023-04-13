@@ -1,0 +1,17 @@
+{
+  "name": "tspw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+   "test": "playwright test" 
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "typescript": "^5.0.4"
+  }
+}
